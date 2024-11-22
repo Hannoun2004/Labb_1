@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\bin\Debug\net8.0\Labb_1_OP.exe
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\bin\Debug\net8.0\Labb_1_OP.deps.json
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\bin\Debug\net8.0\Labb_1_OP.runtimeconfig.json
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\bin\Debug\net8.0\Labb_1_OP.dll
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\bin\Debug\net8.0\Labb_1_OP.pdb
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.dll
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\refint\Labb_1_OP.dll
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.pdb
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\Labb_1_OP.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Skrivbord\objektivprogramering\Labb_1_OP\Labb_1_OP\obj\Debug\net8.0\ref\Labb_1_OP.dll
